@@ -27,7 +27,8 @@ This project demonstrates how to set up a simple Docker Compose environment with
 
 
 ## Screenshots
-**Frontend**:
+**Frontend Connection**:
+
 ![alt text](screenshots/frontend.png)
 
 **MySQL Connection**:
