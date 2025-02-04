@@ -1,15 +1,6 @@
 # Dockerized Nginx Frontend with MySQL
 
-This project demonstrates how to set up a simple Docker Compose environment with Nginx serving a static HTML page and MySQL as the backend database.
-
-## Project Structure
-
-dockerized-nginx-mysql/
-
-├── index.html          
-├── Dockerfile          
-├── docker-compose.yml  
-├── README.md           
+This project demonstrates how to set up a simple Docker Compose environment with Nginx serving a static HTML page and MySQL as the backend database.       
 
 ## How to Run
 
